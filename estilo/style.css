@@ -4,12 +4,6 @@
 
 @import url('https://github.com/RaynaraVitoria/projeto-android/blob/main/fontes/idroid.otf');
 
-@font-face {
-    font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
-    font-weight: normal;
-}
-
 :root {
     --cor0: #f2faf5;
     --cor1: #92DE8B;
