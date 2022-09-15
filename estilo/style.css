@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf');
     font-weight: normal;
 }
 
@@ -17,7 +17,7 @@
 
     --font-padrao: Arial, Verdana, Helvetica, Sans-serif;
     --font-destaque:'Roboto', sans-serif;;
-    --font-android:  'Android', sans-serif;
+    --font-android:  'Android','cursive';
 }
 
 * {
