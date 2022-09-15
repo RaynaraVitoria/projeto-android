@@ -77,7 +77,7 @@ nav>a:hover {
 }
 
 main {
-    min-width: 300px;
+    min-width: 100px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 15px;
