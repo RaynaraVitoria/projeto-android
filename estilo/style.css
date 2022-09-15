@@ -16,7 +16,7 @@
     --cor4: #03645b;
 
     --font-padrao: Arial, Verdana, Helvetica, Sans-serif;
-    --font-destaque:'Roboto', cursive;
+    --font-destaque:'Roboto', sans-serif;;
     --font-android: 'Android', cursive;
 }
 
@@ -90,14 +90,14 @@ main {
 
 main h1 {
     color: var(--cor3);
-    font-family: var(--font-android);
+    font-family: var(--font-destaque);
     font-size: 1.5em;
     
 }
 
 main h2 {
     color: var(--cor3);
-    font-family: var(--font-android);
+    font-family: var(--font-destaque);
     font-size: 1.3em;
     font-weight: normal;
 }
@@ -146,7 +146,7 @@ aside {
 aside > h3 {
     background-color: var(--cor1);
     margin-top: 20px;
-    font-family: var(--font-android);
+    font-family: var(--font-destaque);
     font-weight: normal;
     color: var(--cor3);
     padding: 5px;
